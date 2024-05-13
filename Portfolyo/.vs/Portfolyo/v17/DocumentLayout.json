@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "D:\\Github\\Portfolyo\\Portfolyo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Portfolyo\\Portfolyo\\Migrations\\20240513084723_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240513084723_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,118 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Social.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Social.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Social.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Social.cs",
-              "RelativeToolTip": "DAL\\Entities\\Social.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:39:52.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Message.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Message.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Message.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Message.cs",
-              "RelativeToolTip": "DAL\\Entities\\Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:37:51.278Z",
+              "WhenOpened": "2024-05-13T09:05:43.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Contact.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Contact.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Contact.cs",
-              "RelativeToolTip": "DAL\\Entities\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Title": "20240513084723_mig1.cs",
+              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\Migrations\\20240513084723_mig1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240513084723_mig1.cs",
+              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\Migrations\\20240513084723_mig1.cs",
+              "RelativeToolTip": "Migrations\\20240513084723_mig1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:36:03.882Z",
+              "WhenOpened": "2024-05-13T08:47:23.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Testimonial.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Testimonial.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Testimonial.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Testimonial.cs",
-              "RelativeToolTip": "DAL\\Entities\\Testimonial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "DocumentIndex": 1,
+              "Title": "MyPortfolioContext.cs",
+              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Context\\MyPortfolioContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\MyPortfolioContext.cs",
+              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Context\\MyPortfolioContext.cs",
+              "RelativeToolTip": "DAL\\Context\\MyPortfolioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:23:57.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Portfolio.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Portfolio.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Portfolio.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Portfolio.cs",
-              "RelativeToolTip": "DAL\\Entities\\Portfolio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:22:01.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Experience.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Experience.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Experience.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Experience.cs",
-              "RelativeToolTip": "DAL\\Entities\\Experience.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:19:55.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Skill.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Skill.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Skill.cs",
-              "RelativeToolTip": "DAL\\Entities\\Skill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:18:38.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "About.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\About.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\About.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\About.cs",
-              "RelativeToolTip": "DAL\\Entities\\About.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:17:25.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Feature.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Feature.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Feature.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Entities\\Feature.cs",
-              "RelativeToolTip": "DAL\\Entities\\Feature.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:12:41.046Z",
+              "WhenOpened": "2024-05-13T08:37:41.552Z",
               "EditorCaption": ""
             }
           ]
