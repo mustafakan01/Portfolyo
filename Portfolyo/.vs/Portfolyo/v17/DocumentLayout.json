@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\Portfolyo\\Portfolyo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\migrations\\20240513084723_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:migrations\\20240513084723_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|d:\\github\\portfolyo\\portfolyo\\viewcomponents\\_headcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9941F-9675-4400-87FB-89EE6E0C0699}|Portfolyo.csproj|solutionrelative:viewcomponents\\_headcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "Views\\Default\\Index.cshtml",
-              "ViewState": "AQIAAIIDAAAAAAAAAAAAAJIDAAAAAAAA",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T10:33:15.436Z",
+              "WhenOpened": "2024-06-01T21:42:49.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Controllers\\DefaultController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Title": "_HeadComponentPartial.cs",
+              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\ViewComponents\\_HeadComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_HeadComponentPartial.cs",
+              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\ViewComponents\\_HeadComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_HeadComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T10:28:56.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240513084723_mig1.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\Migrations\\20240513084723_mig1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240513084723_mig1.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\Migrations\\20240513084723_mig1.cs",
-              "RelativeToolTip": "Migrations\\20240513084723_mig1.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAgwD0AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:47:23.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyPortfolioContext.cs",
-              "DocumentMoniker": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Context\\MyPortfolioContext.cs",
-              "RelativeDocumentMoniker": "DAL\\Context\\MyPortfolioContext.cs",
-              "ToolTip": "D:\\Github\\Portfolyo\\Portfolyo\\DAL\\Context\\MyPortfolioContext.cs",
-              "RelativeToolTip": "DAL\\Context\\MyPortfolioContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:37:41.552Z"
+              "WhenOpened": "2024-06-01T21:38:40.953Z",
+              "EditorCaption": ""
             }
           ]
         }
